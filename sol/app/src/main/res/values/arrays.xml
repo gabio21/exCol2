@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="information_types">
+        <item>temperature</item>
+        <item>wind_speed</item>
+        <item>general_state</item>
+        <item>pressure</item>
+        <item>humidity</item>
+    </string-array>
+</resources>
